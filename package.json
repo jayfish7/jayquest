@@ -1,5 +1,5 @@
 {
     "name": "jayquest",
     "version": "0.0.0",
-    "description": "Experiment to create an HTTP client for nodejs projects/processes."
+    "description": "Experiment to create an HTTP client for nodejs projects/processes with Promise based behavior."
 }
